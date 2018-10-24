@@ -1,5 +1,3 @@
-# My-set
-
 
 HomeWork  OO programing
 =
