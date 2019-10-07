@@ -9,12 +9,6 @@ HomeWork  OO programing
 
 
 
-Name：杜海鑫
-Number：1810272014
-
-
-
-
 # 设计要求
 
 使用c++ 实现 set<type> 集合的功能
