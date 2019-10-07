@@ -9,7 +9,7 @@ HomeWork  OO programing
 
 
 
-# 设计要求
+## 设计要求
 
 使用c++ 实现 set<type> 集合的功能
   
@@ -17,7 +17,7 @@ HomeWork  OO programing
   
   
 
-# 设计思路
+## 设计思路
 
 c++中的底层为红黑树，故先实现一个RB_tree 类用于组成数据结构，在此基础之上对set封装
 
